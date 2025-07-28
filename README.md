@@ -36,13 +36,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziza-soubai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aziza-soubai&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AzizaSoubai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AzizaSoubai&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziza-soubai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aziza-soubai&theme=onedark&column=4&margin-w=15&margin-h=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizaSoubai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AzizaSoubai&theme=onedark&column=4&margin-w=15&margin-h=15" width="48%" />
 </p>
 
 ### 🔗 Connect with me:
